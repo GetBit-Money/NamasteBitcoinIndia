@@ -54,7 +54,7 @@ const Hero = () => {
             <div className="relative mb-2">
               <div className="h-24 w-24 bg-gradient-radial from-bitcoin-gold/40 to-transparent rounded-full absolute -inset-2 blur-md"></div>
               <div className="relative flex items-center justify-center">
-                <img src="./namaste.png" className="h-20 w-20 text-bitcoin-gold animate-pulse-slow" />
+                <img src="/namaste.png" className="h-20 w-20 text-bitcoin-gold animate-pulse-slow" />
               </div>
             </div>
             <div className="text-lg font-medium text-bitcoin-gold">
